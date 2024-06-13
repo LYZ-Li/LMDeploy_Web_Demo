@@ -1,4 +1,3 @@
-gradio==4.10.0
 transformers
 sentencepiece
 einops
